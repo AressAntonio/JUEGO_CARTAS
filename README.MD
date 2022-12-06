@@ -15,3 +15,7 @@ OBJETIVO del juego: El objetivo es llegar a un limite de 21 puntos sin pasar se 
 NOTA; Para ejecutar el juego solo se debe abrir el archivo juego_index.html con su navegador preferido.
 
 Para visualizar el sitio puede visitar la siguiente liga  https://aressantonio.github.io/JUEGO_CARTAS/
+
+
+![Captura de pantalla (47)](https://user-images.githubusercontent.com/99376135/206039626-e0673873-b484-41c8-9cfb-64e1a95ccb4a.png)
+![Captura de pantalla (48)](https://user-images.githubusercontent.com/99376135/206039639-b154093d-ea31-410e-9a30-65d8c10423b5.png)
